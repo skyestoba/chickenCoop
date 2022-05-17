@@ -1,0 +1,8 @@
+Name: Specky, Birthday: 2020-04-15, Eggs Laid Today: 1, Egg Color: LIGHTBROWN, Color: SPOTS, Food Preference: bugs
+Name: Specky, Birthday: 2020-04-15, Eggs Laid Today: 1, Egg Color: LIGHTBROWN, Color: SPOTS, Food Preference: bugs
+Name: Specky, Birthday: 2020-04-15, Eggs Laid Today: 1, Egg Color: LIGHTBROWN, Color: SPOTS, Food Preference: bugs
+
+
+
+
+End of day 1.
